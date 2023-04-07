@@ -1,5 +1,5 @@
 # finance_scraper-
-scraping stock price data 
+Scraping stock price data 
 
 uploading data to pandas dataframe and cleaning data using pandas 
 
