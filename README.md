@@ -1,6 +1,7 @@
 # Predicting Future Stock Prices with ML
 
-Upload historical "TSLA" stock data from 2017
+Upload historical "TSLA" stock data from 2017.
+
 Date can be updated in practicals.ipynb notebook by updating the date to the current date 
 Data is saved in CSV file as stock_data.csv 
 
