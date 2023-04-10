@@ -7,8 +7,8 @@ Data is saved in CSV file as stock_data.csv
 
 # Installation 
 
-Download data 
-Get into the folder using cd finance_scrape- 
+Download data.
+Open the folder using "cd finance_scraper-"
 Uploading data to pandas dataframe and cleaning data using pandas 
 
 Install the requirements 
